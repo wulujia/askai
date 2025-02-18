@@ -4,15 +4,15 @@ draft = false
 title = '开源库 simple_chat 推广'
 +++
 
-人：开源软件在推广的时候，有什么技巧和注意要点？
+开源软件在推广的时候，有什么技巧和注意要点？
 
 >ChatGPT：你是希望推广一个特定的开源软件，还是希望了解一般的推广技巧？如果是具体的软件，可以分享一些背景信息，例如目标用户群、功能特点等，以便提供更有针对性的建议。
 
-人：https://github.com/Tealseed-Lab/simple_chat，我想推广这个小的开源库
+https://github.com/Tealseed-Lab/simple_chat，我想推广这个小的开源库
 
 >ChatGPT：我将为你研究如何有效推广你的开源库 [simple_chat](https://github.com/Tealseed-Lab/simple_chat)。我会整理一份推广策略，包括适合的平台、营销技巧、社区参与方法，以及如何提升可见性和用户互动。我会尽快整理这些信息，并提供一份详细的推广指南。
 
->Research completed in 7m · 19 sources
+Research completed in 7m · 19 sources
 
 我将为你研究如何有效推广你的开源库 [simple_chat](https://github.com/Tealseed-Lab/simple_chat)。我会整理一份推广策略，包括适合的平台、营销技巧、社区参与方法，以及如何提升可见性和用户互动。我会尽快整理这些信息，并提供一份详细的推广指南。
 
