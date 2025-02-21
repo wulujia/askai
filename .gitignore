@@ -2,3 +2,10 @@ public/
 resources/
 .hugo_build.lock
 .DS_Store
+*.log
+*.bak
+.obsidian/
+.obsidian/workspace.json 
+.obsidian/appearance.json
+.obsidian/plugins/
+
